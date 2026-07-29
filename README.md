@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-I'm Dheeraj, a software engineer from India.
-
-I'm endlessly curious about how things work. Whether it's a piece of software, a new technology, or a different culture, I love diving deep and understanding what makes it tick.
-
-Over the last few years, I've worked across backend development, frontend development, DevOps, cybersecurity, and AI-powered tooling. I enjoy building products end-to-end and learning whatever is necessary to make them work.
-
-My main tech stack is Go, Java, MongoDB, React.js, SQL, Python, CI/CD, etc
+A passionate software engineer with expertise in full-stack development. Currently working at Flexera, as an Associate Software Engineer, I drive innovation through building scalable web applications that solve real-world problems. With a B.Tech in Computer Science, I bring strong technical foundations with hands-on experience in web development, cloud technologies, and AI-driven solutions. Looking forward to contributing to impactful projects and collaborating with like-minded professionals in the tech community.
 
 ## Fun facts
 

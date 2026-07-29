@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A passionate software engineer with expertise in full-stack development. Currently working at Flexera, as an Associate Software Engineer, I drive innovation through building scalable web applications that solve real-world problems. With a B.Tech in Computer Science, I bring strong technical foundations with hands-on experience in web development, cloud technologies, and AI-driven solutions. Looking forward to contributing to impactful projects and collaborating with like-minded professionals in the tech community.
+I'm Dheeraj, a passionate software engineer with expertise in full-stack development. Currently working at Flexera, as an Associate Software Engineer, I drive innovation through building scalable web applications that solve real-world problems. With a B.Tech in Computer Science, I bring strong technical foundations with hands-on experience in web development, cloud technologies, and AI-driven solutions. Looking forward to contributing to impactful projects and collaborating with like-minded professionals in the tech community.
 
 ## Fun facts
 

@@ -5,14 +5,14 @@ I'm Dheeraj, a passionate software engineer with expertise in full-stack develop
 ## Fun facts
 
 - 🌈 Proudly gay
-- ☕ I don't like coffee or tea
+- ☕ I love cats 
 - 📝 I take notes for everything because my memory has trust issues
 - 🤖 Hobbies: Gym, gardening, music and building things
 - 🚀 My favorite projects are the ones that start as "side quests"
 
 ## Reach me
 
-- LinkedIn: linkedin.com/in/dheeraj-r-p-b30465218
+- LinkedIn: linkedin.com/in/12dheerajrp
 - Email: 12dheerajrp@gmail.com
 
 ---

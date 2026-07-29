@@ -12,7 +12,7 @@ I'm Dheeraj, a passionate software engineer with expertise in full-stack develop
 
 ## Reach me
 
-- LinkedIn: linkedin.com/in/12dheerajrp
+- LinkedIn: https://www.linkedin.com/in/12dheerajrp
 - Email: 12dheerajrp@gmail.com
 
 ---
